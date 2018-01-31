@@ -1,1 +1,3 @@
-# Deep_Learning_Tutorials
+# Deep Learning Tutorials
+
+Repo for trying out Deep Learning Tutorials.
